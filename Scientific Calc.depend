@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726139476 source:c:\users\moatasem\documents\scientific calc\main.cpp
+	<iostream>
+	<cmath>
+
